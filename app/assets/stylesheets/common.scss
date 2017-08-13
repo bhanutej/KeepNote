@@ -56,3 +56,16 @@
     margin-left: 3px;
   }
 }
+
+.control-label {
+  font-size: 12px !important;
+}
+
+.table {
+  td{
+    font-weight: 400;
+    .bootstrap-tagsinput{
+      margin-top: 10px;
+    }
+  }
+}

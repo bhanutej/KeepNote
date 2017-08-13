@@ -10,7 +10,7 @@
 # Ignore all logfiles and tempfiles.
 /log/*
 !/log/.keep
-/tmp
+/tmpx
 
 # minimal Rails specific artifacts
 db/*.sqlite3
